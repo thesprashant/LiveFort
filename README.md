@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/RELEASE-v0.1.0-8A2BE2"><br>
-<img src="https://img.shields.io/badge/LIVE%20LINUX%20WITH%20VIRTUALBOX%20AND%20USB%20PASSTHROUGH%20IN%20RAM-FF4500">
+<img src="https://img.shields.io/badge/LIVE%20LINUX%20IN%20RAM%20WITH%20VIRTUALBOX%20AND%20USB%20PASSTHROUGH-FF4500">
 </p>
 
 <h4 align="left">
