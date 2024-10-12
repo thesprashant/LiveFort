@@ -1,0 +1,34 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+        { "VTOY_SHOW_PASSWORD_ASTERISK": "0" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/" }
+    ],
+    "theme":{
+        "file": "/ventoy/theme/dark/theme.txt",
+        "gfxmode": "1920x1080",
+        "ventoy_left": "200%",
+        "ventoy_top": "200%",
+        "ventoy_color": "#000000",
+        "fonts":[
+            "/ventoy/theme/dark/hackb_22.pf2",
+            "/ventoy/theme/dark/norwester_24.pf2",
+            "/ventoy/theme/dark/norwester_28.pf2",
+            "/ventoy/theme/dark/norwester_30.pf2"
+        ]
+    },
+    "menu_class":[
+        {
+            "key": "debian",
+            "class": "debian"
+        }
+    ],
+    "conf_replace":[
+        {
+            "iso": "/debian-live-12.7.0-amd64-gnome.iso",
+            "org": "/boot/grub/grub.cfg",
+            "new": "/ventoy/bootconf/debianram.cfg"
+        }
+    ]
+}
