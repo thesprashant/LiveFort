@@ -66,7 +66,7 @@ These scripts create a secure live environment which fortifies your system again
 
         1.Extract Downloaded Zip File.
 
-        2.Move Contents Of Extracted Folder (livefort-0.1...) inside Ventoy             Partition of USB Drive.
+        2.Move Contents Of Extracted Folder (livefort-0.1...) inside Ventoy Partition of USB Drive.
 
         3. Download **debian-live-12.7.0-amd64-gnome.iso** and put it inside Ventoy Partition of USB Drive.
 
