@@ -32,7 +32,7 @@ These scripts create a secure live environment which fortifies your system again
 
 # Installation and Usage Instructions
 
-###### 1. Download Ventoy
+###### 1. Download Ventoy and Debian 
 
 [Click To Download Ventoy For Windows](https://github.com/ventoy/Ventoy/releases/download/v1.0.99/ventoy-1.0.99-windows.zip)
 
@@ -62,11 +62,13 @@ These scripts create a secure live environment which fortifies your system again
 
                  **Caution:Your Pendrive Will Be Formatted.**
 
-###### 3. Download LiveFort from Releases
+###### 3. Download LiveFort from Releases and download debian
 
         1.Extract Downloaded Zip File.
 
-        2.Move Contents Of Extracted Folder (livefort-0.1...) inside Ventoy             Partition Of USB Drive.
+        2.Move Contents Of Extracted Folder (livefort-0.1...) inside Ventoy             Partition of USB Drive.
+
+        3. Download **debian-live-12.7.0-amd64-gnome.iso** and put it inside Ventoy Partition of USB Drive.
 
 ###### 4. Boot USB Drive
 
